@@ -100,13 +100,16 @@ button {
 
 @media screen and (max-width:430px) {
     .container {
-        width: 80%;
-        height: 50%;
+        width: 100%;
+        height: 100%;
     }
     .quote {
         font-size: 150%;
     }
     .author {
         font-size: 100%;
+    }
+    .new-quote-container {
+        height: 25%;
     }
 }
