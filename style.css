@@ -27,6 +27,7 @@ body {
     height: 100%;
     font-size: 1.3vw;
     padding-top: 25px;
+    font-family: 'PT Sans', sans-serif;
 }
 
 .author-container {
@@ -42,6 +43,7 @@ body {
     height: 100%;
     font-size: 1.3vw;
     margin-right: 15px;
+    font-family: 'Playfair Display', serif;
 }
 
 .buttons-container {
