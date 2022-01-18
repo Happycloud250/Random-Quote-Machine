@@ -109,7 +109,11 @@ button {
     .author {
         font-size: 100%;
     }
-    .new-quote-container {
-        height: 25%;
+   .new-quote-container {
+        height: 22%;
+        padding-top: 1%;
+    }
+    .share {
+        width: 37%;
     }
 }
