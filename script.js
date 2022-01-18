@@ -1,4 +1,7 @@
 const quotesArray = [
+    [
+        "If you don't know how to do what you want, just take the first step.","Pyae Shan"
+    ],
 
     [
         "Life isn’t about getting and having, it’s about giving and being.", "Kevin Kruse"
